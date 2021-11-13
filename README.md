@@ -1,8 +1,8 @@
 # is2axudp
 
-Wichtiger Urheberrechts-Hinweis:
-is2axudp.py stammt aus der Feder von Matze DM4TZE
-wx.py stammt von Chris OE5DXL
+## Wichtiger Urheberrechts-Hinweis: ##
+* is2axudp.py stammt aus der Feder von Matze DM4TZE
+* wx.py stammt von Chris OE5DXL
 
 is2axudp.py ist ein einfacher APRS-IS zu AXUDP Konverter in Python Code. Es 
 simuliert einen APRS-Server und nimmt APRS Pakete im APRS-IS Format entgegen. 
